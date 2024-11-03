@@ -25,5 +25,6 @@ This project was developed as part of college's major project to bridge communic
    ```bash
    python main.py
 
-2 **Sign-to-Text**: Use your webcam to show gestures; the system will display the text.
+2 **Sign-to-Text**: Use your webcam to show gestures; the system will display the text.   
+
 3 **Text-to-Sign**: Enter text to output corresponding sign language gestures.
